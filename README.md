@@ -31,5 +31,3 @@ A IA usa esses arquivos como referência para responder perguntas financeiras de
 
 ---
 
-# 📂 Estrutura do projeto
->>>>>>> 77b5c80 (ProjetoEudcaaoFinanceira)
